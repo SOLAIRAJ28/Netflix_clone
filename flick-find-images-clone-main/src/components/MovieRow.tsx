@@ -68,3 +68,4 @@ const MovieRow: React.FC<MovieRowProps> = ({ title, movies }) => {
 };
 
 export default MovieRow;
+
